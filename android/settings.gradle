@@ -1,0 +1,3 @@
+rootProject.name = 'vim_4035'
+
+include ':app'
